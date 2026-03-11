@@ -1,2 +1,3 @@
 four
 added an additional line here
+added something else to see merge conflicts
